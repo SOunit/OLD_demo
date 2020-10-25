@@ -1,1 +1,1 @@
-This is test text for git!
+This is a test text for git!
